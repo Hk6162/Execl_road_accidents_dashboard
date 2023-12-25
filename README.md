@@ -1,3 +1,4 @@
+[Link to excel file](https://docs.google.com/spreadsheets/d/1P1tNTXcwuE3Fw0i56uP98ZwWzPntF3Ap/edit?usp=sharing&ouid=109758291000514394717&rtpof=true&sd=true)
 # Execl_road_accidents_dashboard
 This small project uses uk road accidents data and analyses casulaties based on multiple factor. Pivot tables and pivot charts are mainly used.
 Workflow:
@@ -16,4 +17,4 @@ Workflow:
 	calculated items in pivot tables(aggregating rows)     referencing pivot data>copy data outside don't forget 	to change refrencing      double clicking format painter   custom formatting using Ctrl+1   Ctrl+Shift+Drag  
 	
 
-[Link to excel file](https://docs.google.com/spreadsheets/d/1P1tNTXcwuE3Fw0i56uP98ZwWzPntF3Ap/edit?usp=sharing&ouid=109758291000514394717&rtpof=true&sd=true)
+
