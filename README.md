@@ -16,5 +16,7 @@ Workflow:
 6> Creating dashboard          how to remove grid lines     format painter      formatting doughnut charts    
 	calculated items in pivot tables(aggregating rows)     referencing pivot data>copy data outside don't forget 	to change refrencing      double clicking format painter   custom formatting using Ctrl+1   Ctrl+Shift+Drag  
 	
+ ![road_accidents_dashboard](https://github.com/Hk6162/Execl_road_accidents_dashboard/assets/99483282/d205c7b6-3fd9-486a-bcf2-8b4e5bb101cd)
+
 
 
